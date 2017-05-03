@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CameraDecodeService</string>
+    <string name="scan_bar">扫描二维码/条码</string>
+</resources>
